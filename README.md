@@ -9,3 +9,5 @@ python3 firststatphotov1.2.py sub.yaml
 ![‏لقطة الشاشة 2025-06-14 في 10 09 47 م](https://github.com/user-attachments/assets/9bed9eb6-7c79-48bb-9c4f-53bc81f454e1)
 
 ![‏لقطة الشاشة 2025-06-15 في 10 28 52 ص](https://github.com/user-attachments/assets/45ded794-b579-4838-b974-a7c06e97d0b2)
+
+<img width="1604" height="1262" alt="‏لقطة الشاشة 2025-09-01 في 4 14 16 م" src="https://github.com/user-attachments/assets/f3bf3adf-9cde-4350-87eb-176cff861c68" />
