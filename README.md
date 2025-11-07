@@ -6,7 +6,8 @@ https://github.com/nxs7/WA2-CHS-Subtitle-Patch?tab=readme-ov-file
 امر الكومبايل لملف الترجمة هو 
 python3 firststatphotov1.2.py sub.yaml
 وكل التفاصيل الفنية مشروحة بالاداة الصينية المكتبات اللازمة واين تضع الملفات كما يوجد مثال باصدار اللعبة ايضا
-![لقطة الشاشة 2025-09-08 في 10 18 59 م](https://github.com/user-attachments/assets/dd4fd0ed-408e-41ef-a39f-15309a3cfb7d)
+![لقطة الشاشة 2025-09-08 في 10 18 58 م](https://github.com/user-attachments/assets/7b6541ec-c360-4c7e-b044-777fab382ed9)
+
 ![لقطة الشاشة 2025-09-08 في 11 08 29 م 1](https://github.com/user-attachments/assets/13eb93b2-f20d-4708-9621-cfff6864adaf)
 
 
